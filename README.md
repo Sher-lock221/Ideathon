@@ -17,7 +17,7 @@ Some of the features that can elevate the StackUp platform are as follows:
 
 7. **Rewards**: The winners from the coding challenges can be awarded Stackcoins to redeem items like profile icon styles, cool background images of the website which Stackies can set on their own accounts. Also, they can use these Stackoins to buy cool designs of their profile page which other Stackies can see when they visit their fellow Stackies' profiles. The higher the difficulty, the more Stackoins they can earn.
 
-8. **StackUp app**: An Android or iOS application can be developed to make it easier for Stackies to track their progress, balance and relevant information only connected to their accounts.
+8. **StackUp app**: An Android or iOS application can be developed to make it easier for Stackies to track their progress, balance and only relevant information connected to their accounts.
 
 9. **Project Showcase**: A page can be created where Stackies showcase their projects. Also, a "Youtube comments" like area can be created where Stackies leave valuable suggestions to improve fellow Stackies' projects.
 
