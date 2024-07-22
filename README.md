@@ -7,7 +7,7 @@ Some of the features that can elevate the StackUp platform are as follows:
    
 2. **Gamification Elements**: Simple games can be added to make certain programming languages more interactive to learn and implement them.
 
-3. **Profile Level**: Based upon the number of quests completed and use of learning materials, Stackies can gain experience points, which increases their profile level. Also, profile level 1-10 can be marked as Beginner, 10-15 as Novice, ... and so on to further increase the competitive spirit of Stackies.
+3. **Profile Level**: Based upon the number of quests completed and use of learning materials, Stackies can gain experience points, which increases their profile level. Also, profile levels 1-10 can be marked as Beginner, 10-15 as Novice, ... and so on to further increase the competitive spirit of Stackies.
 
 4. **1 on 1 sessions**: A method can be developed where Stackies (who meet certain criteria) can get the opportunity to talk directly with the CM or relevant people regarding coding and community growth. The conversational record can be saved for a month on the platform after which it will get deleted automatically. This gives ample time for new as well as old Stackies to learn new things.
 
